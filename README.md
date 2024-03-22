@@ -1,1 +1,1 @@
-# A Node.js project
+# A Hardhat project
